@@ -1,0 +1,24 @@
+Group_ID,PathID,Title Text,Secondary Text,corrections,Aria-label
+,flow,Direction of Ice Flow,,,Direction of Ice Flow.
+,crevasse,Crevasses,Cracks in the ice that allow water to enter the interior of an ice sheet.,,Crevasses.Cracks in the ice that allow water to enter the interior of an ice sheet.
+,ice,Ice,,,Ice.
+,braids,Outwash Rivers,Waters discharged from an icesheet form complicated braided river streams carrying huge amounts of sediment.,,Outwash Rivers.Waters discharged from an icesheet form complicated braided river streams carrying huge amounts of sediment.
+,recessional,Recessional Moraine,A small ridge of sediment that forms during recession when ice retreat stalls.,,Recessional Moraine.A small ridge of sediment that forms during recession when ice retreat stalls.
+,terminal,Terminal Moraine,A ridge of sediment formed at the margin of an ice sheet when ice is at it's maximum position.,,Terminal Moraine.A ridge of sediment formed at the margin of an ice sheet when ice is at it's maximum position.
+,drumlin,Drumlin,A teardrop-shaped hill formed by glacial erosion.,,Drumlin.A teardrop-shaped hill formed by glacial erosion.
+,till3,Till Plain,,,Till Plain.
+,berg,Iceberg,,,Iceberg.
+,rockdrumlin,Rock Drumlins,Drumlin-like shapes carved out of bedrock by ice flowing over a bedrock high.,,Rock Drumlins.Drumlin-like shapes carved out of bedrock by ice flowing over a bedrock high.
+,kettle,Kettle Lake,A lake formed within a hollow left by stagnant ice.,,Kettle Lake.A lake formed within a hollow left by stagnant ice.
+,proglacial,Proglacial Lake,A lake that forms directly in contact with an ice margin.,,Proglacial Lake.A lake that forms directly in contact with an ice margin.
+,subglacial,Subglacial Meltwater,Water that collects underneath a glacier.,,Subglacial Meltwater.Water that collects underneath a glacier.
+,eskerfill,Sand and Gravel,,,Sand and Gravel.
+,esker,Esker,A sinuous ridge of sediment formed when subglacial rivers deposit sediment.,,Esker.A sinuous ridge of sediment formed when subglacial rivers deposit sediment.
+,megaterrain,Megalineated Terrain,Terrain that has been streamlined by fast flowing ice.,,Megalineated Terrain.Terrain that has been streamlined by fast flowing ice.
+,bedrock,Bedrock,,,Bedrock.
+,sediment1,Pre existing Sediment,,,Pre existing Sediment.
+,till1,Till,A sediment formed when ice moves over a sediment plain and crushes up the top layer.,,Till.A sediment formed when ice moves over a sediment plain and crushes up the top layer.
+,mega,Megaridges,Long ridges that are carved in bedrock by fast-flowing ice.,,Megaridges.Long ridges that are carved in bedrock by fast-flowing ice.
+,sandg,Sand and Gravel,,,Sand and Gravel.
+,outwash,Outwash Plain,A plain of sediment (sand and gravel) that forms from rivers discharging from an ice margin.,,Outwash Plain.A plain of sediment (sand and gravel) that forms from rivers discharging from an ice margin.
+,stagnant,Stagnant Ice,Ice that has detached from the glacier and is no longer moving.,,Stagnant Ice.Ice that has detached from the glacier and is no longer moving.

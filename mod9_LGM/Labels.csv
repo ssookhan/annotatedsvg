@@ -1,0 +1,11 @@
+GroupID,PathID,Hoverover Text,Secondary Text,aria correction,Aria-label
+,iceflow,,,,
+,0,"""0 - 0.5 km""",,0 - 0.5 kilometers,0 - 0.5 kilometers.
+,500,"""0.5 - 1 km""",,0.5 - 1 kilometers,0.5 - 1 kilometers.
+,1000,"""1 - 1.5 km""",,1 - 1.5 kilometers,1 - 1.5 kilometers.
+,1500,"""1.5 - 2 km""",,1.5 - 2 kilometers,1.5 - 2 kilometers.
+,3000,"""more than 3 km""",,more than 3 kilometers,more than 3 kilometers.
+,2500,"""2.5 - 3 km""",,2.5 - 3 kilometers,2.5 - 3 kilometers.
+,2000,"""2 - 2.5 km""",,2 - 2.5 kilometers,2 - 2.5 kilometers.
+,Keewatin,Keewatin Ice Dome,,,Keewatin Ice Dome.
+,Quebec,Quebec Ice Dome,,,Quebec Ice Dome.
